@@ -1,0 +1,1 @@
+/data00/yujunshuai/miniconda3/envs/py36/bin/python /data00/yujunshuai/mybin/json_diff.py  $*
